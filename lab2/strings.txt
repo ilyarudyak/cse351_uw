@@ -1,0 +1,95 @@
+    200 /lib64/ld-linux-x86-64.so.2
+    5a1 __gmon_start__
+    5b0 libc.so.6
+    5ba socket
+    5c1 cuserid
+    5c9 fflush
+    5d0 strcpy
+    5d7 exit
+    5dc sprintf
+    5e4 fopen
+    5ea __isoc99_sscanf
+    5fa connect
+    602 signal
+    609 puts
+    60e stdin
+    614 rewind
+    61b strtol
+    622 fgets
+    628 tmpfile
+    630 stdout
+    637 fputc
+    63d fclose
+    644 getenv
+    64b __ctype_b_loc
+    659 system
+    660 gethostbyname
+    672 fwrite
+    679 bcopy
+    67f fprintf
+    687 sleep
+    68d __libc_start_main
+    69f GLIBC_2.3
+    6a9 GLIBC_2.7
+    6b3 GLIBC_2.2.5
+    cf4 fff.
+    ee2 \$(H
+    ee7 l$0L
+    eec d$8L
+    ef1 l$@H
+   1094 t	92
+   138f d$ H
+   142d ATUSH
+   14d8 nobof
+   1637 `[]A\
+   1877 l$ L
+   187c t$(L
+   1881 |$0H
+   1910 %s: Error: Couldn't open %s
+   192d Usage: %s [<input_file>]
+   1947 That's number 2.  Keep going!
+   1965 Halfway there!
+   1978 Welcome to my fiendish little bomb. You have 6 phases with
+   19b8 which to blow yourself up. Have a nice day!
+   19e8 Phase 1 defused. How about the next one?
+   1a18 So you got that one.  Try this one.
+   1a40 Congratulations! You've (mostly) defused the bomb!
+   1a78 Hit Control-C to escape phase 6 (for free!), but if you want to
+   1ab8 try phase 6 for extra credit, you can continue.  Just beware!
+   1af8 Science isn't about why, it's about why not?
+   1b28 Wow! You've defused the secret stage!
+   1be0 So you think you can stop the bomb with ctrl-c, do you?
+   1c18 nonexistenthost.cs.washington.edu
+   1c40 Curses, you've found the secret phase!
+   1c68 But finding it and solving it are quite different...
+   1ca0 Congratulations! You've defused the bomb! Again!
+   1cd8 Well...
+   1ce0 OK. :-)
+   1ce8 Invalid phase%s
+   1cf9 Bad host (1).
+   1d07 Bad host (2).
+   1d15 Bad host (3).
+   1d23 defused
+   1d2b exploded
+   1d34 ERROR: dup(0) error
+   1d48 ERROR: close error
+   1d5b ERROR: tmpfile error
+   1d70 Subject: Bomb notification
+   1d8c bomb-header:%s:%d:%s:%s:%d
+   1da8 bomb-string:%s:%d:%s:%d:%s
+   1dc4 bomb
+   1dc9 /usr/sbin/sendmail -bm
+   1de0 %s %s@%s
+   1de9 ERROR: notification error
+   1e03 ERROR: fclose(tmp) error
+   1e1c ERROR: dup(tmpstdin) error
+   1e37 ERROR: close(tmpstdin)
+   1e4f BOOM!!!
+   1e57 The bomb has blown up.
+   1e6e Error: Premature EOF on stdin
+   1e8c GRADE_BOMB
+   1e97 Error: Input line too long
+   1eb2 %d %d %d %d %d %d
+   1ec4 %d %s
+   1eca austinpowers
+   2820 courseraHWSWInterface
