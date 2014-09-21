@@ -1,1 +1,1 @@
-this is a course from UW on computer architecture.
+this is CSE 351: The Hardware/software Interface from UW.
